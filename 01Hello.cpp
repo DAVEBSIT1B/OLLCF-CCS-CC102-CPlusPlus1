@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"HOWDY LOURDENIANS PROGRAMMERS!"<<endl;
+	cout<<"HOWDY LOURDENIAN PROGRAMMERS!"<<endl;
 	
 	return 0;
 }
