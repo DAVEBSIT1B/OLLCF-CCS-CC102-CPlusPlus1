@@ -16,7 +16,7 @@ int main()
     cout << "Your School: ";
     cin >> school;
 
-    cout << "Wow, Congrats " << nickname << "! " << courseYearLevel << " is a nice course. And you are studying in " << school << ", which is one of the Centers of Excellence in Tertiary Education." << endl;
+    cout << "Wow, Congrats " << nickname << "! " << course << " is a nice course. And you are studying in " << school << ", which is one of the Centers of Excellence in Tertiary Education." << endl;
     
     return 0;
 }
