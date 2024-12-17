@@ -12,10 +12,10 @@ int main ()
   }
 	for(int k=0; k<n-i;++k){
 		if((i+k)%2==0){
-			cout << " # ";
+			cout << " #";
 		}
 		else{
-			cout<< " @ ";
+			cout<< " @";
 		}
 	}
 	cout <<endl;
