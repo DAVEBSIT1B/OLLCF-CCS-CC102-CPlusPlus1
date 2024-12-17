@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
 	cout<<"Revised Pattern 1 "<< endl;
 	int n = 7;
 	for(int i = 0; i < n; ++i){
